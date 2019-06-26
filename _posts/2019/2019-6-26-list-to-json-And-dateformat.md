@@ -5,8 +5,7 @@ category: java
 keywords:json,fastjson,date.
 excerpt: 学海无涯
 ---
-
-今天写crm系统联系人界面时,需要异步得到客户的信息。后端需要将数据库查询到的数据转换为json传给前端页面，但是再转换时出现了stackoverflow.如何在正确显示日期.
+今天写crm系统联系人界面时,需要异步得到客户的信息.后端需要将数据库查询到的数据转换为json传给前端页面，但是再转换时出现了stackoverflow.如何在正确显示日期.
 
 ## list转json
 我使用的时fastjson,阿里爸爸开发的一款专门用于Java开发的包，可以方便的实现json对象与JavaBean对象的转换，实现JavaBean对象与json字符串的转换，实现json对象与json字符串的转换
