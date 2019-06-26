@@ -1,7 +1,7 @@
 ---
 layout: post
 title: list转json并只转换必要项，数据库datetime和date类型如何正确在jsp页面显示.
-category: 
+category: java
 keywords:json,fastjson,date.
 excerpt: 学海无涯
 ---
