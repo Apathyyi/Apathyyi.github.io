@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: Apathyyi/Apathyyi.github.io
 github_url: https://github.com/Apathyyi
 url: http://www.APathyyi.com
-enforce_ssl: Apathyyi.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
