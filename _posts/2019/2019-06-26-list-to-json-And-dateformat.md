@@ -38,9 +38,8 @@ JSONObject.toJSONString(list,filter);
 ```
 <input width="180px" maxlength="50" name="visit_time" id="visit_time" value='<s:date name="visit_time" format="yyyy-mm-dd"/>'/>
 ```
-大概效果如下:</br>
+大概效果如下:有什么问题可以提出,希望大家共同学习.
 ![](https://github.com/Apathyyi/Apathyyi.github.io/blob/master/image/date1.png)
-</br>
+
 ![](https://github.com/Apathyyi/Apathyyi.github.io/blob/master/image/date2.png)
-</br>
-有什么问题可以提出,希望大家共同学习.
+
