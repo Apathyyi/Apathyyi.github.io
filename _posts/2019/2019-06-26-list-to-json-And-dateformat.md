@@ -2,7 +2,7 @@
 layout: post
 title: list转json并只转换必要项，数据库datetime和date类型如何正确在jsp页面显示.
 category: java
-keywords:json,fastjson,date.
+keywords: json,fastjson,date.
 excerpt: 学海无涯
 ---
 今天写crm系统联系人界面时,需要异步得到客户的信息.后端需要将数据库查询到的数据转换为json传给前端页面，但是再转换时出现了stackoverflow.如何在正确显示日期.
