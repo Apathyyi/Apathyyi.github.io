@@ -2,10 +2,11 @@
 layout: post
 title: jquery-validation进行表单校验
 category: java
-keywords: jQuery-validation,form.
-excerpt: 学海无涯
+keywords: jQuery-validation,form
+excerpt: 学海无涯.
 ---
 `form`表单一般都需要对用户填写的数据进行校验，符合一些规则才能够让用户进行提交，今天使用`jQuery`的表单校验插件`jQuery-validation`.</br>
+### 下载
 下载地址：https://jqueryvalidation.org/
 ##使用
 下载好插件后在`jsp`页面引入`jquery-validate.js`（记得`jQuery.js`也得引入）
