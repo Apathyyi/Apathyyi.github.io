@@ -2,7 +2,7 @@
 layout: post
 title: form表单提交一般数据和文件数据
 category: java
-expert: 学海无涯
+excerpt: 学海无涯
 ---
 `form`表单提交的一般数据后台可使用`request.getParameter()`来接收,可是当表单内有文件数据时就不能这样获取到文件数据.
 如何才能分别获取一般数据和文件数据.
