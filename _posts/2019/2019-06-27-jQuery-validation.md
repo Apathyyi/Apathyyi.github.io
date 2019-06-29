@@ -8,7 +8,7 @@ excerpt: 学海无涯.
 `form`表单一般都需要对用户填写的数据进行校验，符合一些规则才能够让用户进行提交，今天使用`jQuery`的表单校验插件`jQuery-validation`.</br>
 ### 下载
 下载地址：https://jqueryvalidation.org/
-##使用
+使用
 下载好插件后在`jsp`页面引入`jquery-validate.js`（记得`jQuery.js`也得引入）
 ```
  <script src="${pageContext.request.contextPath}/static/js/jquery.validate.js"></script>
