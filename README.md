@@ -8,5 +8,3 @@
 
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
 
-
-## 暂时没有微信公众号
